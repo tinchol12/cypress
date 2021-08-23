@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/tinchol12/cypress#readme",
   "devDependencies": {
-    "cypress": "^8.3.0"
+    "cypress": "^8.3.0",
+    "faker": "^5.5.3"
   }
 }
